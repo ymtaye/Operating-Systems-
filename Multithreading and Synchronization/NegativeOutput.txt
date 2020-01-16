@@ -1,0 +1,13 @@
+-------------Welcome-------------
+Please input ID and Value you would like to send to
+Value     ID
+Message contained error value
+The result from thread 1 is 1 from 1 operations during 2 secs.
+The result from thread 2 is 11 from 2 operations during 2 secs.
+The result from thread 7 is 10 from 1 operations during 2 secs.
+The result from thread 5 is 11 from 2 operations during 2 secs.
+The result from thread 4 is 1 from 1 operations during 2 secs.
+The result from thread 8 is 10 from 1 operations during 2 secs.
+The result from thread 9 is 10 from 1 operations during 2 secs.
+The result from thread 3 is 2 from 2 operations during 3 secs.
+The result from thread 10 is 30 from 3 operations during 3 secs.

@@ -1,0 +1,9 @@
+The result from thread 2 is 44 from 8 operations during 15 secs.
+The result from thread 7 is 40 from 4 operations during 15 secs.
+The result from thread 4 is 4 from 4 operations during 15 secs.
+The result from thread 5 is 44 from 8 operations during 15 secs.
+The result from thread 1 is 4 from 4 operations during 15 secs.
+The result from thread 9 is 40 from 4 operations during 15 secs.
+The result from thread 8 is 40 from 4 operations during 15 secs.
+The result from thread 3 is 8 from 8 operations during 16 secs.
+The result from thread 10 is 160 from 16 operations during 16 secs.
