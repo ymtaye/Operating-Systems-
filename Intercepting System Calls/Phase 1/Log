@@ -1,0 +1,26 @@
+Sep 14 17:40:18 cs3013-VirtualBox kernel: [ 1284.939339] User 1000 is Closing file descriptor: 22
+Sep 14 17:40:18 cs3013-VirtualBox kernel: [ 1284.940330] User 1000 is opening file: /home/cs3013/.local/share/recently-used.xbel
+Sep 14 17:40:18 cs3013-VirtualBox kernel: [ 1284.940346] User 1000 is Closing file descriptor: 20
+Sep 14 17:40:18 cs3013-VirtualBox kernel: [ 1284.944035] User 1000 is opening file: /home/cs3013/.local/share/zeitgeist/fts.index/postlist.tmp
+Sep 14 17:40:18 cs3013-VirtualBox kernel: [ 1285.110433] User 1000 is Closing file descriptor: 16
+Sep 14 17:40:18 cs3013-VirtualBox kernel: [ 1285.111080] User 1000 is opening file: /home/cs3013/.local/share/zeitgeist/fts.index/position.tmp
+Sep 14 17:40:18 cs3013-VirtualBox kernel: [ 1285.114964] User 1000 is Closing file descriptor: 16
+Sep 14 17:40:18 cs3013-VirtualBox kernel: [ 1285.115990] User 1000 is opening file: /home/cs3013/.local/share/zeitgeist/fts.index/termlist.tmp
+Sep 14 17:40:18 cs3013-VirtualBox kernel: [ 1285.117662] User 1000 is Closing file descriptor: 16
+Sep 14 17:40:18 cs3013-VirtualBox kernel: [ 1285.118483] User 1000 is opening file: /home/cs3013/.local/share/zeitgeist/fts.index/record.tmp
+Sep 14 17:40:18 cs3013-VirtualBox kernel: [ 1285.120285] User 1000 is Closing file descriptor: 16
+Sep 14 17:40:20 cs3013-VirtualBox kernel: [ 1287.690182] User 1000 is Closing file descriptor: 13
+Sep 14 17:40:21 cs3013-VirtualBox kernel: [ 1287.985431] User 1000 is Closing file descriptor: 26
+Sep 14 17:40:24 cs3013-VirtualBox kernel: [ 1291.052129] User 1000 is Closing file descriptor: 26
+Sep 14 17:40:24 cs3013-VirtualBox kernel: [ 1291.060821] User 1000 is Closing file descriptor: 13
+Sep 14 17:40:24 cs3013-VirtualBox kernel: [ 1291.311685] User 1000 is Closing file descriptor: 26
+Sep 14 17:40:27 cs3013-VirtualBox kernel: [ 1293.959404] User 1000 is Closing file descriptor: 26
+Sep 14 17:40:28 cs3013-VirtualBox kernel: [ 1295.459252] User 1000 is Closing file descriptor: 26
+Sep 14 17:40:29 cs3013-VirtualBox kernel: [ 1296.600709] User 1000 is Closing file descriptor: 26
+Sep 14 17:40:39 cs3013-VirtualBox kernel: [ 1306.702043] User 1000 is Closing file descriptor: 4
+Sep 14 17:40:39 cs3013-VirtualBox kernel: [ 1306.702078] User 1000 is Closing file descriptor: 5
+Sep 14 17:40:51 cs3013-VirtualBox kernel: [ 1318.682001] User 1000 is opening file: /etc/fstab
+Sep 14 17:40:51 cs3013-VirtualBox kernel: [ 1318.682050] User 1000 is Closing file descriptor: 15
+Sep 14 17:40:51 cs3013-VirtualBox kernel: [ 1318.682060] User 1000 is opening file: /proc/mounts
+Sep 14 17:40:51 cs3013-VirtualBox kernel: [ 1318.682231] User 1000 is Closing file descriptor: 15
+
