@@ -1,6 +1,4 @@
-# OperatingSystem.proj4
-
-Project 4
+#Project 4
 
 Yared Taye 
 
