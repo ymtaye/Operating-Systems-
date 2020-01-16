@@ -1,0 +1,17 @@
+cs3013@cs3013-VirtualBox:/var/log$ tail -n 15 syslog
+Sep 14 18:05:26 cs3013-VirtualBox kernel: [ 2788.329662] Loaded interceptor!------------------------Inside Kernel-------------------------
+Sep 14 18:05:26 cs3013-VirtualBox kernel: [ 2792.993644] --------------------------------------------------------------
+Sep 14 18:05:26 cs3013-VirtualBox kernel: [ 2792.993646] ---------------User ID: 1000 is running process.-----------------
+Sep 14 18:05:26 cs3013-VirtualBox kernel: [ 2792.993647] --------------------------------------------------------------
+Sep 14 18:05:26 cs3013-VirtualBox kernel: [ 2792.993649] Current state of process---------------------:              0
+Sep 14 18:05:26 cs3013-VirtualBox kernel: [ 2792.993650] Process ID of current process----------------:           8165
+Sep 14 18:05:26 cs3013-VirtualBox kernel: [ 2792.993652] Process ID of parent-------------------------:           1896
+Sep 14 18:05:26 cs3013-VirtualBox kernel: [ 2792.993653] Process ID of Youngest Child-----------------:    -1297911579
+Sep 14 18:05:26 cs3013-VirtualBox kernel: [ 2792.993655] Process ID of Older Sibling------------------:              0
+Sep 14 18:05:26 cs3013-VirtualBox kernel: [ 2792.993656] Process ID of Younger Sibling----------------:              0
+Sep 14 18:05:26 cs3013-VirtualBox kernel: [ 2792.993657] Process start time---------------------------:   709854474000000650 nanoseconds
+Sep 14 18:05:26 cs3013-VirtualBox kernel: [ 2792.993659] CPU time spent in User mode------------------: 709854473647816704 microseconds
+Sep 14 18:05:26 cs3013-VirtualBox kernel: [ 2792.993660] CPU time spent in System mode----------------: 709854473647816704 microseconds
+Sep 14 18:05:26 cs3013-VirtualBox kernel: [ 2792.993662] CPU time spent in User mode for all Children-: 709854473647816704 microseconds
+Sep 14 18:05:26 cs3013-VirtualBox kernel: [ 2792.993663] CPU time spent in System mode for all Children: 709854473647816704 microseconds
+

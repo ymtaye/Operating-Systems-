@@ -1,0 +1,19 @@
+cs3013@cs3013-VirtualBox:~/Downloads/proj2/Phase2$ ./a.out
+------------------------Inside user space--------------------
+--------------------------------------------------------------
+---------------User ID: 1000 is running process.-----------------
+--------------------------------------------------------------
+Current state of process---------------------:              0
+Process ID of current process----------------:           8165
+Process ID of parent-------------------------:           1896
+Process ID of Youngest Child-----------------:    -1297911579
+Process ID of Older Sibling------------------:              0
+Process ID of Younger Sibling----------------:              0
+Process start time---------------------------:   709854474000000650 nanoseconds
+CPU time spent in User mode------------------: 709854473647816704 microseconds
+CPU time spent in System mode----------------: 709854473647816704 microseconds
+CPU time spent in User mode for all Children-: 709854473647816704 microseconds
+CPU time spent in System mode for all Children: 709854473647816704 microseconds
+---------------------CHILD---------------8166-----
+---------------------PARENT--------------------
+
